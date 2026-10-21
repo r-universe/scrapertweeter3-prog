@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/scrapertweeter3-prog/scrapertweeter3-prog.r-universe.dev
 	branch = HEAD
+[submodule "flatratemath"]
+	path = flatratemath
+	url = https://github.com/scrapertweeter3-prog/flatratemath-r
