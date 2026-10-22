@@ -2,6 +2,21 @@
 	path = .registry
 	url = https://github.com/scrapertweeter3-prog/scrapertweeter3-prog.r-universe.dev
 	branch = HEAD
+[submodule "costdecade"]
+	path = costdecade
+	url = https://github.com/scrapertweeter3-prog/costdecade-r
+[submodule "evaldrift"]
+	path = evaldrift
+	url = https://github.com/scrapertweeter3-prog/evaldrift-r
+[submodule "firemath"]
+	path = firemath
+	url = https://github.com/scrapertweeter3-prog/firemath-r
 [submodule "flatratemath"]
 	path = flatratemath
 	url = https://github.com/scrapertweeter3-prog/flatratemath-r
+[submodule "gigmath"]
+	path = gigmath
+	url = https://github.com/scrapertweeter3-prog/gigmath-r
+[submodule "saunacost"]
+	path = saunacost
+	url = https://github.com/scrapertweeter3-prog/saunacost-r
